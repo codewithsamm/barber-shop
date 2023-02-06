@@ -11,6 +11,6 @@
 
   Barber Shop is a fully responsive Barber Shop Website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href=""><strong>➥ Live Demo</strong></a>
+  <a href="https://codewithsamm.github.io/barber-shop/"><strong>➥ Live Demo</strong></a>
 
 </div>
